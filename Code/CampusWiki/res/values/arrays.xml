@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+    <string-array name="ui_profile_photo_picker_items">
+        <item>Take from camera</item>
+        <item>Select from album</item>
+    </string-array>
+    
+    <string-array name="ui_manual_input_items">
+        <item>Name</item>
+        <item>Ranking</item>
+        <item>Desc</item>
+        </string-array>
+
+</resources>

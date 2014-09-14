@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DartCampus</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">DartCampus</string>
+    <string name="ui_profile_photo_picker_title">"Select profile image"</string>
+    <string name="dialog_fragment_tag_photo_picker">dialog_fragment_photo_picker</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_demo1">Demo1</string>
+    
+    
+    <string name="server_addr">http://dartcampuswiki.appspot.com</string>
+
+</resources>
